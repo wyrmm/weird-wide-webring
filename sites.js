@@ -164,5 +164,8 @@ let sites = [
       name: "Biebersoft.net",
       url: 'https://biebersoft.net/',
       because: "I bring back the videogame spoofs like its 1999 - Now with BETA HTML5 arcade!"
-    }
+    },
+      name: "SP00KZ.TXT (WYRMM)"
+      url: 'https://wyrmm-eatz-dirt.neocities.org/'
+      because: "ive g0t a pretty weird/kinda unique aesthetic, and think my site w0uld fit in p well with all this!!"
 ]
